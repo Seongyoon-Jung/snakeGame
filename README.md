@@ -1,6 +1,4 @@
-# snakeGame
-
-<h1>SnakeGame 프로젝트 소개</h1>
+# SnakeGame 프로젝트 소개
 <h2>-c++ 프로그래밍-</h2>   
 
 목표 : C++ 프로그래밍 언어로 ncurses 라이브러리를 사용하여 Snake Game을 구현한다.
